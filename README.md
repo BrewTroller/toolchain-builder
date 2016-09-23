@@ -4,7 +4,7 @@ This script, originally taken from [here](https://gist.github.com/facchinm/23761
 
 ## Current Versions
 
- - GCC 5.2.0
+ - GCC 5.4.0
  - Binutils 2.26.1
  - Avr-libc 1.8.1
 
